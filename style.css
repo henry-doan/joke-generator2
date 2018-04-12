@@ -23,10 +23,10 @@ hr {
   height: 20em;
 
   /* optional card background */
-  /* background-color: rgba(53, 53, 53, 0.52);
+  background-color: rgba(53, 53, 53, 0.52);
   width: 50%;
   margin: 40px auto;
-  padding-top: 20px; */
+  padding-top: 20px;
 } 
 
 h1, p {
